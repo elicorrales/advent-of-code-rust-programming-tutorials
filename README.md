@@ -14,7 +14,7 @@ The approach is to:
 <br/>  
 
 ## [Video: Rust: Problem-Solving, Cmd-Line Args, Files, Match, Errors]()  
-In this Part 1 video, we set up our code to try to solve the **Advent of Code: Day 3: Binary Diagnostic** puzzle.  
+In this Part 1 video, we set up our code to try to solve the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
 Not wanting the video to be too long, we just set up to read command-line (the file path), open the file, and handle some file errors.  
 [Here]() is the code for Part 1.  
 <br/>
