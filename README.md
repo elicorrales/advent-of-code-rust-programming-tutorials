@@ -13,7 +13,7 @@ The approach is to:
 ## [Video: How I Learn Rust](https://www.youtube.com/watch?v=zTe-8WwR4Xc&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=1)  
 <br/>  
 
-## [Video: Rust: Problem-Solving, Cmd-Line Args, Files, Match, Errors]()  
+## [Video: Rust: Problem-Solving, Cmd-Line Args, Files, Match, Errors](https://www.youtube.com/watch?v=OlssSNQIH9E)  
 In this Part 1 video, we set up our code to try to solve the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
 Not wanting the video to be too long, we just set up to read command-line (the file path), open the file, and handle some file errors.  
 [Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-1) is the code for Part 1.  
