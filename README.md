@@ -32,7 +32,7 @@ In this Part 3, we **(almost!)** complete the code to solve the [**Advent of Cod
   
 ## [Video: Rust: "Advent of Code 2021 Day 3 Binary Diagnostic" Part 4 Verify Inputs, Array of Counters, Conditional Dynamic Vector Initialization]()  
 In this Part 4, we take a final look at solving the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
-**Spoiler**: We do **NOT** fully complete the solution to the puzzle.
+**Spoiler**: We do **NOT** fully complete the solution to the puzzle.  
 [Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-4) is the code for Part 4.  
 <br/>
   
