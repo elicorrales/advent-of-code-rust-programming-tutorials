@@ -19,13 +19,13 @@ Not wanting the video to be too long, we just set up to read command-line (the f
 [Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-1) is the code for Part 1.  
 <br/>
   
-## [Video: Rust: "Advent of Code 2021 Day 3 Binary Diagnostic" Part 2 Reading Files](https://www.youtube.com/watch?v=8mMUx065jkk)  
+## [Video: Rust: "Advent of Code 2021 Day 3 Binary Diagnostic" Part 2 Reading Files](https://www.youtube.com/watch?v=syhZ-3yPHdM)  
 In this Part 2 video, we further set up our code to try to solve the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
 Not wanting the video to be too long, we just read the file and do some basic processing of contents.  
 [Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-2) is the code for Part 2.  
 <br/>
   
-## [Video: Rust: "Advent of Code 2021 Day 3 Binary Diagnostic" Part 3 Processing Binary String Inputs Line by Line, For Loops, Iterator, Enumerate, Tuple]()  
+## [Video: Rust: "Advent of Code 2021 Day 3 Binary Diagnostic" Part 3 Processing Binary String Inputs Line by Line, For Loops, Iterator, Enumerate, Tuple](https://www.youtube.com/watch?v=8mMUx065jkk)  
 In this Part 3, we **(almost!)** complete the code to solve the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
 [Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-3) is the code for Part 3.  
 <br/>
