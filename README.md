@@ -25,8 +25,13 @@ Not wanting the video to be too long, we just read the file and do some basic pr
 [Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-2) is the code for Part 2.  
 <br/>
   
-## [Video: Rust: Advent of Code 2021 Day 3 Binary Diagnostic Part 3 Processing Binary String Inputs Line by Line]()  
-In this Part 3 video, we complete the code to solve the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
+## [Video: Rust: Advent of Code 2021 Day 3 Binary Diagnostic Part 3 Processing Binary String Inputs Line by Line, For Loops, Iterator, Enumerate, Tuple]()  
+In this Part 3, we **(almost!)** complete the code to solve the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
 [Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-3) is the code for Part 3.  
+<br/>
+  
+## [Video: Rust: Advent of Code 2021 Day 3 Binary Diagnostic Part 4 Complete The Puzzle Solution, Verify Inputs, Array of Counters]()  
+In this Part 4, we complete the code to solve the [**Advent of Code: Day 3: Binary Diagnostic**](https://adventofcode.com/2021/day/3) puzzle.  
+[Here](https://github.com/elicorrales/advent-of-code-binary-diagnostic-num-4) is the code for Part 4.  
 <br/>
   
